@@ -23,4 +23,7 @@ IG_UI_FR = {
 	IGUI_VehiclePartJP82WindshieldArmor = "Blindage de pare-brise",
 	IGUI_VehiclePartJP82WindowFrontLeftArmor = "Blindage de vitre avant gauche",
 	IGUI_VehiclePartJP82WindowFrontRightArmor = "Blindage de vitre avant droite",
+
+	IGUI_CraftCategory_80sPickups = "Pickups des années 80",
+	IGUI_CraftCategory_JP82 = "'82 Jeep J10",
 }
