@@ -1,0 +1,26 @@
+IG_UI_FR = {
+	IGUI_VehicleName82jeepJ10 = "'82 Jeep J10"
+	IGUI_VehicleName82jeepJ10t = "'82 Jeep J10 Mellow Jaune"
+	IGUI_VehicleName82jeepJ10pd = "'82 Jeep J10 Police"
+	IGUI_VehicleName82jeepJ10ranger = "'82 Jeep J10 Ranger"
+
+	IGUI_VehiclePartJP82Dorothy = "Dorothy",
+	IGUI_VehiclePartJP82Windy = "Anémomètre",
+
+	IGUI_VehiclePartJP82Rollbar = "Arceau de sécurité",
+	IGUI_VehiclePartJP82Roofrack = "Galerie de toit",
+	IGUI_VehiclePartJP82BedCover = "Bâche",
+	IGUI_VehiclePartJP82TrunkDoorTop = "Fermeture de coffre",
+	IGUI_VehiclePartJP82Trunk = "Stockage",
+	IGUI_VehiclePartJP82Trunkt = "Zone de rangement",
+
+	IGUI_VehiclePartJP82FrontBumper = "Pare-chocs avant",
+	IGUI_VehiclePartJP82RearBumper = "Pare-chocs arrière",
+
+	IGUI_VehiclePartJP82SpareTireRear = "Pneu de secours arrière",
+	IGUI_VehiclePartJP82SpareTireRoof = "Pneu de secours de toit",
+
+	IGUI_VehiclePartJP82WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartJP82WindowFrontLeftArmor = "Blindage de vitre avant gauche",
+	IGUI_VehiclePartJP82WindowFrontRightArmor = "Blindage de vitre avant droite",
+}
