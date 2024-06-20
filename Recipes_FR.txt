@@ -13,4 +13,10 @@ Recipes_FR = {
 	Recipe_Make_JP82_Rear_Windshield = "Fabriquer Pare-brise arrière",
 	Recipe_Make_JP82_Top_Trunk_Lid = "Fabriquer Fermeture de coffre supérieur",
 	Recipe_Make_JP82_Windshield = "Fabriquer Pare-brise",
+
+	Recipe_Dismantle_82_Jeep_J10_Armor = "Démonter Blindage",
+	Recipe_Dismantle_82_Jeep_J10_Door = "Démonter Portière",
+	Recipe_Dismantle_82_Jeep_J10_Lid = "Démonter Coffre",
+	Recipe_Dismantle_82_Jeep_J10_Truckbed_Addons = "Démonter Ajouts",
+	Recipe_Make_82_Jeep_J10_Front_Bullbar = "Fabriquer Pare-buffle",
 }
